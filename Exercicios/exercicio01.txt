@@ -1,0 +1,23 @@
+Um profissional de educação física necessita automatizar, via informatização, a sua agenda de atendimento de alunos de personal trainer.
+O sistema monitora os clientes (nome, email e telefone), categoria do clciente (nome) que tem relação com o objetivo do treinamento. Sendo que o cliente pode ter muitos objetivos. Os treinamentos são compostos por execícios de diferentes categorias.
+Por exemplo, remada baia tem relação com a categoria costas, enquanto o supino reto tem relação com peito. dessa forma, o exercício tem relação com um grupo muscular. Mas para o primeiro momento, esse professor precisa automatizar sua agenda de trabalho, 
+em que um aluno ou cliente tem um horario/dia com esse professor.
+Um aluno/cliente pode ter vários encontros co esse professor e cada encontro tem uma relação om um treinamento montado ou criado. E que por sua vez, esse trienamento tem um conjunto de exercícios.
+
+Dicas:
+1) dividir em fases
+  - identificar as entidades/tabelas
+  - identificar os atributos (simples e/ou identificadores)
+  - realizar os relacionamentos
+  - definir a cardinalidade
+
+  https://lucid.app/lucidchart/b4d0a4bd-d801-4289-aed9-5ff2eb97dafb/edit?viewport_loc=-1389%2C-197%2C1519%2C794%2C0_0&invitationId=inv_9fbd8454-8813-4fdd-bdc3-c9b9c8bb3074
+
+
+  --------------------------------------
+
+  Um professor de padel precisa automatizar, via informatização, os jogos treinos dele. 
+  Um jogo é composto por 4 atletas de categoria igual (categoria, 2, 3, 4, 5, 6). Esse jogo treino deve ser em um dia, uma hora, em uma quadra de um clube.
+  O professor lança um jogo informando o dia, a hora, a quadra, o clube e a categoria do jogo treino. E os atletas entram nesse jogo, ou compõem esse jogo.
+
+  https://lucid.app/lucidchart/b4d0a4bd-d801-4289-aed9-5ff2eb97dafb/edit?viewport_loc=-1437%2C-317%2C2164%2C1059%2C0_0&invitationId=inv_9fbd8454-8813-4fdd-bdc3-c9b9c8bb3074
