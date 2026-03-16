@@ -1,0 +1,10 @@
+Departamento(IdDepartamento, descricao)
+Empregado(idEmpregado, nome, funcao, gerente)
+  - gerente referencia Empregado(idEmpregado)
+ProcessadorTexto(idProcessador, nome)
+SecretariaProcessadorTexto(idSecretariaProcessadorTexto, secretaria, idProcessadorTexto
+  - secretaria referencia Empregado(idEmpregado)
+  - idProcessadorTexto referencia ProcessadorTexto(idProcessadorTexto)
+EngenheiroProjeto(idEngenheiroProjeto, engenheiro, projeto)
+  - engenheiro referencia Emprego(idEmprego)
+  - projeto referencia Projeto(idProjeto)
