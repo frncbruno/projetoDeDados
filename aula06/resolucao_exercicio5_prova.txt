@@ -1,0 +1,22 @@
+Fornecedor(idFornecedor, descricao
+
+Fabricante(idFabricante, descricao
+
+FornecedorFabricante(idFornecedor, idFabricante)
+
+Lote (idLote, idFornecedor
+  - idFornecedor referencia Fornecedor
+
+Produto(idProduto, descricao, tipo, idFabricante
+  - idFabricante referencia Fabricante
+
+Produto_Lote(idProduto, idLote, data)
+
+Venda(idVenda, descricao)
+
+Venda_Produto(idVenda, idProduto, data, hora, idReceita)
+  - idVenda referencia Venda
+  - idProduto referencia Produto
+  - idReceita referencia Receita
+  
+Receita(idReceita, descricao)
