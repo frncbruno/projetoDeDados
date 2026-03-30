@@ -13,4 +13,5 @@
    
 <img width="720" height="355" alt="exercicio" src="https://github.com/user-attachments/assets/67b91794-92db-41be-b3ca-d6356715aa1b" />
 <img width="595" height="340" alt="exercicio2" src="https://github.com/user-attachments/assets/c3c278ea-c15e-41ae-93d0-6550b4618e9d" />
+<img width="781" height="465" alt="exercicio3" src="https://github.com/user-attachments/assets/b3927447-b2a3-4eb2-9e2f-586e26017c83" />
 
