@@ -1,0 +1,12 @@
+  MySQL WorkBench
+  Administrador:
+    - Gestão de modelos (diagramas)
+      - Gerar scripts SQL
+      - Gerar esquema de banco de dados (Modelagem: Conceitual (Esquema), Lógica, Física)
+    - Gestão de BD
+    - "Terminal ou Console" de consulta
+
+  MySQL Server
+   - Gestão BD:
+   - Tabelas, Relacionamentos, Restrições
+   
