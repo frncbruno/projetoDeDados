@@ -1,5 +1,6 @@
 <img width="711" height="785" alt="image" src="https://github.com/user-attachments/assets/87c4dd4f-47be-46b8-a18e-f83f7d829d37" />
 
+  # Exercicio 1
 - SELECT DISTINCT t1.CODESCRITORIO  
   FROM ESCRITORIO AS t1  
   LEFT JOIN CONTRATOALUGUEL AS t2  
